@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         editText1.addTextChangedListener(tw);
+        //for git
     }
 
     private void initView() {
